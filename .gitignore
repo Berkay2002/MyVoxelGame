@@ -1,0 +1,34 @@
+# Build outputs
+bin/
+obj/
+build/
+dist/
+out/
+
+# IDE and editor files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Game-specific (adjust as needed)
+*.exe
+*.dll
+Assets/
+Packages/
+Logs/
+
+third_party/glfw/
+third_party/glm/
